@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of flarumchina/flarum-ext-simplified-chinese.** Not for installation: use [Packagist](https://packagist.org/packages/flarumchina/flarum-ext-simplified-chinese) or the [upstream repository](https://github.com/FlarumChina/flarum-ext-simplified-chinese).
 
-**0** versions archived · Latest: [`v0.1.0-beta.6`](https://github.com/flarchive/flarumchina-flarum-ext-simplified-chinese/tree/archive/v0.1.0-beta.6) · License: `MIT` · Flarum: `^0.1.0-beta.6`
+**3** versions archived · Latest: [`v0.1.0-beta.6`](https://github.com/flarchive/flarumchina-flarum-ext-simplified-chinese/tree/archive/v0.1.0-beta.6) · License: `MIT` · Flarum: `^0.1.0-beta.6`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0-beta.4` | 2015-12-01 | `^0.1.0-beta.4` | [Browse](https://github.com/flarchive/flarumchina-flarum-ext-simplified-chinese/tree/archive/v0.1.0-beta.4) |
+| `v0.1.0-beta.5` | 2016-04-09 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/flarumchina-flarum-ext-simplified-chinese/tree/archive/v0.1.0-beta.5) |
+| `v0.1.0-beta.6` | 2017-04-03 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/flarumchina-flarum-ext-simplified-chinese/tree/archive/v0.1.0-beta.6) |
 
 Catalog entry: [packages/flarumchina-flarum-ext-simplified-chinese.json](https://github.com/flarchive/archive-index/blob/main/packages/flarumchina-flarum-ext-simplified-chinese.json)
 
